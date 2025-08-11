@@ -147,12 +147,3 @@ First, create the environment variables file `.env` in the client folder. The `.
 2. Run `npm i` or `npm install` to install the packages.
 3. Run `npm start` to run the app on `http://localhost:3000`.
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-
-&nbsp;
-
-## For Support, Contact:
-
-- Email: codewavewithasante@gmail.com
-- Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
